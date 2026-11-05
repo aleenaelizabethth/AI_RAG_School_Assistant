@@ -14,7 +14,7 @@ A local AI assistant for a fictional school, **Excellent Public School**. Parent
 
 > **All data in this project is synthetic** (generated names, marks and attendance). The school, phone number and email are fictional.
 
-![App screenshot](docs/screenshot.png)
+![App screenshot](docs/Screenshot.png)
 
 ---
 
