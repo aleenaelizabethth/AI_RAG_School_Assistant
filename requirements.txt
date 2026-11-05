@@ -1,0 +1,8 @@
+streamlit
+mysql-connector-python
+requests
+sentence-transformers
+numpy
+python-dotenv
+rank_bm25
+mcp<2
